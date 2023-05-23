@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"_app.js -> paypal-checkout":{"id":"_app.js -> paypal-checkout","files":["static/chunks/node_modules_paypal-checkout_index_js.js"]}}
